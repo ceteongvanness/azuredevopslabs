@@ -90,7 +90,7 @@ In this lab, you will learn how to establish a local Git repository, which can e
 
 1. When prompted, log in to your Azure DevOps account.
 
-1. Once the cloning has completed, click **Open Repository**. You can ignore any warnings raised about opening the projects. The solution may not be in a buildable state, but that's okay since we're going to focus on working with Git and building the project itself is not necessary.
+1. Once the cloning has completed, click **Open**. You can ignore any warnings raised about opening the projects. The solution may not be in a buildable state, but that's okay since we're going to focus on working with Git and building the project itself is not necessary.
 
     ![](images/005.png)
 
@@ -119,7 +119,7 @@ In this lab, you will learn how to establish a local Git repository, which can e
 
     ![](images/010.png)
 
-1. Paste the code in to the login box and click **Continue**.
+1. Paste the code in to the login box and click **Next**.
 
     ![](images/011.png)
 
